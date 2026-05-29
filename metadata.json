@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA",
+  "description": "A premium, futuristic cinematic productivity operating system and AI-powered workspace for students and developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
